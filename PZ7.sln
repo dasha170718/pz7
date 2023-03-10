@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ7", "PZ7\PZ7.csproj", "{79C474A9-A576-4631-93E9-2E1D507BC0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ7_3", "PZ7_3\PZ7_3.csproj", "{658175BF-F009-4C33-9149-5E46832FC906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79C474A9-A576-4631-93E9-2E1D507BC0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C474A9-A576-4631-93E9-2E1D507BC0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C474A9-A576-4631-93E9-2E1D507BC0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C474A9-A576-4631-93E9-2E1D507BC0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658175BF-F009-4C33-9149-5E46832FC906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658175BF-F009-4C33-9149-5E46832FC906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658175BF-F009-4C33-9149-5E46832FC906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658175BF-F009-4C33-9149-5E46832FC906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F73AC1B-17DE-4F5C-B57D-0D8B0C7146D7}
+	EndGlobalSection
+EndGlobal
