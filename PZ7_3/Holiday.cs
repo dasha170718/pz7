@@ -8,6 +8,7 @@ namespace PZ7_3
 {
     internal class Holiday : IHoliday
     {
+        //ABOBA
         public string Name { get; set; }
         public DateTime Date { get; set; }
 
