@@ -1,0 +1,15 @@
+d:\users\is13123\Desktop\udalit\PZ7_3\bin\Debug\net6.0\PZ7_3.exe
+d:\users\is13123\Desktop\udalit\PZ7_3\bin\Debug\net6.0\PZ7_3.deps.json
+d:\users\is13123\Desktop\udalit\PZ7_3\bin\Debug\net6.0\PZ7_3.runtimeconfig.json
+d:\users\is13123\Desktop\udalit\PZ7_3\bin\Debug\net6.0\PZ7_3.dll
+d:\users\is13123\Desktop\udalit\PZ7_3\bin\Debug\net6.0\PZ7_3.pdb
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.csproj.AssemblyReference.cache
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.AssemblyInfoInputs.cache
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.AssemblyInfo.cs
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.csproj.CoreCompileInputs.cache
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.dll
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\refint\PZ7_3.dll
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.pdb
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\PZ7_3.genruntimeconfig.cache
+d:\users\is13123\Desktop\udalit\PZ7_3\obj\Debug\net6.0\ref\PZ7_3.dll
