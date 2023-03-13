@@ -8,16 +8,17 @@ namespace PZ7_3
 {
     internal class Holiday : IHoliday
     {
-        //ABOBA
-        public string Name { get; set; }
-        public DateTime Date { get; set; }
+        public string name { get; set; }
+        public DateTime date { get; set; }
+        public Status status { get; set; }
 
         private List<IClient> clients = new List<IClient>();
 
-        public Holiday(string name, DateTime date)
+        public Holiday(string name, DateTime date, Status status)
         {
-            Name = name;
-            Date = date;
+            this.name = name;
+            this.date = date;
+            this.status = status;
         }
 
         public void RegisterClient(IClient client) =>
@@ -35,7 +36,13 @@ namespace PZ7_3
         {
             foreach (IClient client in clients)
             {
-                client.Update(this);
+                if (client.getStatus() >= status)
+                {
+                    client.Update(this, name);
+                    continue;
+                }
+
+                client.Update(this, "Слыш, купи VIP");
             }
         }
     }

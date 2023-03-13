@@ -17,14 +17,12 @@ namespace PZ7_3
             this.status = status;
         }
 
-        public void Update(IHoliday app)
+        public Status getStatus() =>
+            status;
+
+        public void Update(IHoliday app, string notifycate)
         {
-            if (status == Status.Amateur)
-                Console.WriteLine("Amateur");
-            else if (status == Status.Rookie)
-                Console.WriteLine("Rookie");
-            else
-                Console.WriteLine("VIP");
+            Console.WriteLine(Name + " - " + notifycate);
         }
     }
 

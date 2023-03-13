@@ -8,6 +8,8 @@ namespace PZ7_3
 {
     internal interface IClient
     {
-        void Update(IHoliday app);
+        void Update(IHoliday app, string notifycate);
+
+        Status getStatus();
     }
 }
